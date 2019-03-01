@@ -74,7 +74,7 @@
 - https://zerotier.com
 
 ### Обсуждаем создание нового чата (форума):
-@influence_dev
+- [`@influence_dev`](https://t.me/influence_dev)
 - https://docs.google.com/document/d/1c6heldTZ4HfIqDoZUQBn0jw5zb8nFlW-2NCpeEWxiaA/edit#heading=h.bphueay59cks
 - https://github.com/distributed-community/peerun
 
