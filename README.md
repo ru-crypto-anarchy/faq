@@ -101,7 +101,7 @@ socks5 proxy (от whoami, доступно только через сети cjd
 - ygg: socks5://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1080
 
 shadowsocks proxy (от whoami):
-QR-code и данные для подключения ищите по хештегу #shadowsocks_whoami
-(рекомендую использовать аддон Proxy SwitchyOmega, есть в Firefox и Chrome)
-(тестируйте ваш днс http://dnsleaktest.com , по дефолту днс запросы идут не через proxy, а через вашего провайдера
-Ставьте галку "Proxy DNS when using SOCKS v5" (в Firefox) или используйте dnscrypt-proxy)
+- QR-code и данные для подключения ищите по хештегу #shadowsocks_whoami
+- рекомендую использовать аддон Proxy SwitchyOmega, есть в Firefox и Chrome
+- тестируйте ваш днс http://dnsleaktest.com , по дефолту днс запросы идут не через proxy, а через вашего провайдера
+- Ставьте галку "Proxy DNS when using SOCKS v5" (в Firefox) или используйте dnscrypt-proxy
