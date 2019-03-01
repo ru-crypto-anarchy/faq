@@ -22,7 +22,7 @@
 [oneweb.world](https://oneweb.world/)  
 [skylink-astro.net](http://www.skylink-astro.net/)  
 
-Что такое меш сеть? ([перевод](https://www.youtube.com/watch?v=SXgeNHP0IEg), [оригинал](http://youtube.com/watch?v=cK73sYM3g0Q))
+### Что такое меш сеть? ([перевод](https://www.youtube.com/watch?v=SXgeNHP0IEg), [оригинал](http://youtube.com/watch?v=cK73sYM3g0Q))
 - https://yggdrasil-network.github.io/
 - https://github.com/cjdelisle/cjdns
 - https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md
@@ -30,39 +30,39 @@
 - https://github.com/hyperboria
 - https://github.com/hyperboria/bugs
 
-Публичные пиры (ноды):
+### Публичные пиры (ноды):
 - https://peers.fc00.io
 - https://cjdns.cupivan.ru
 - https://lvlts.github.io/hyperboria-peer-check
 - https://github.com/hyperboria/peers
 - https://github.com/yggdrasil-network/public-peers
 
-Карты сети:
+### Карты сети:
 - https://h.snode.cjd.li
 - https://h.fc00.org
 - https://yggdrasil-map.cwo.fi
 
-Ресурсы сети:
+### Ресурсы сети:
 - https://hia.cjdns.ca
 - https://yggdrasil-network.github.io/services.html
 
-Форумы:
+### Форумы:
 - https://distributed.earth/c/distributed-networking
 - https://h.forum.meshnet.pl
 - https://reddit.com/r/darknetplan
 
-Другие чаты нашего комьюнити:
+### Другие чаты нашего комьюнити:
 - @distributed
 - @idistributed
 - @p2p_disturbed
 - @SDR_discussion
 - @btr_politics
 
-Чаты внутри сети:
+### Чаты внутри сети:
 - irc.fc00.io#cjdns (matrix gate matrix.to/#/%23fc00-irc_%23cjdns:m.trnsz.com)
 - irc.hypeirc.net#hyperboria
 
-Полезные ссылки:
+### Полезные ссылки:
 - https://handshake.org
 - https://github.com/mwarning/KadNode
 - https://ipfs.io
@@ -73,12 +73,12 @@
 - https://zeronet.io
 - https://zerotier.com
 
-Обсуждаем создание нового чата (форума):
+### Обсуждаем создание нового чата (форума):
 @influence_dev
 - https://docs.google.com/document/d/1c6heldTZ4HfIqDoZUQBn0jw5zb8nFlW-2NCpeEWxiaA/edit#heading=h.bphueay59cks
 - https://github.com/distributed-community/peerun
 
-Каналы по теме блокировок, криптоанархии и пр.:
+### Каналы по теме блокировок, криптоанархии и пр.:
 - https://t.me/alexmakus
 - https://t.me/darkfox_info
 - https://t.me/EvilWirelessMan
@@ -88,18 +88,18 @@
 - https://t.me/usher2
 - https://t.me/zatelecom
 
-DC-HUB (от whoami, требуется поддержка клиентом ADC и IPv6. Например: ncdc, airdcpp. Eiskaltdc++ не поддерживает IPv6): 
+### DC-HUB (от whoami, требуется поддержка клиентом ADC и IPv6. Например: ncdc, airdcpp. Eiskaltdc++ не поддерживает IPv6): 
 - ygg: adc://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1511
 
-http proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса, открывает .onion, .i2p):
+### http proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса, открывает .onion, .i2p):
 - cjdns: proxy.on.hyperboria.name:8118
 - ygg: [202:9877:2815:cd91:336:2a16:bfd9:7258]:8118
 
-socks5 proxy (от whoami, доступно только через сети cjdns/yggdrasil):
+### socks5 proxy (от whoami, доступно только через сети cjdns/yggdrasil):
 - cjdns: socks5://[fc0d:5bba:969:82b6:8f96:1721:a6d1:4e35]:1080
 - ygg: socks5://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1080
 
-shadowsocks proxy (от whoami):
+### shadowsocks proxy (от whoami):
 - QR-code и данные для подключения ищите по хештегу #shadowsocks_whoami
 - рекомендую использовать аддон Proxy SwitchyOmega, есть в Firefox и Chrome
 - тестируйте ваш днс http://dnsleaktest.com , по дефолту днс запросы идут не через proxy, а через вашего провайдера
