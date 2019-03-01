@@ -6,7 +6,7 @@
 [Статистика чата](http://combot.org/c/-1001135587237) 
 
 Чаты и мосты в разных сетях:
-- TELEGRAM: [`meshnet`](https://t.me/meshnet)
+- TELEGRAM: [`@meshnet`](https://t.me/meshnet)
 - MATRIX-gate: 
   - [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org)
   - [`#ru.meshnet:matrix.org`](https://matrix.to/#/#ru.meshnet:matrix.org)
