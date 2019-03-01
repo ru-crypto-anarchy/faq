@@ -24,6 +24,7 @@
 [skylink-astro.net](http://www.skylink-astro.net/)  
 
 Что такое меш сеть? ([перевод](https://www.youtube.com/watch?v=SXgeNHP0IEg), [оригинал](http://youtube.com/watch?v=cK73sYM3g0Q))
+- https://yggdrasil-network.github.io/
 - https://github.com/cjdelisle/cjdns
 - https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md
 - https://github.com/cjdelisle/cjdns/blob/master/doc/nat-gateway.md
