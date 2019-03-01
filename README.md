@@ -80,14 +80,14 @@
 - https://github.com/distributed-community/peerun
 
 Каналы по теме блокировок, криптоанархии и пр.:
-https://t.me/alexmakus
-https://t.me/darkfox_info
-https://t.me/EvilWirelessMan
-https://t.me/parisburns
-https://t.me/roskomsvoboda
-https://t.me/gip_24
-https://t.me/usher2
-https://t.me/zatelecom
+- https://t.me/alexmakus
+- https://t.me/darkfox_info
+- https://t.me/EvilWirelessMan
+- https://t.me/parisburns
+- https://t.me/roskomsvoboda
+- https://t.me/gip_24
+- https://t.me/usher2
+- https://t.me/zatelecom
 
 DC-HUB (от whoami, требуется поддержка клиентом ADC и IPv6. Например: ncdc, airdcpp. Eiskaltdc++ не поддерживает IPv6): 
 - ygg: adc://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1511
