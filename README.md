@@ -1,16 +1,15 @@
 >В основе cjdns лежит вера в то, что социальные проблемы, такие как необоснованные изъятия доменов и массовые прослушки, являются результатом устаревших протоколов, дающих слишком большую власть в руки малого количества людей. © Caleb James DeLisle
 
-[Форум](https://www.reddit.com/r/ru_meshnet/) 
-
-[Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
-[Статистика чата](http://combot.org/c/-1001135587237) 
-
 Чаты и мосты в разных сетях:
 - TELEGRAM: [`@meshnet`](https://t.me/meshnet)
 - MATRIX-gate: 
   - [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org)
   - [`#ru.meshnet:matrix.org`](https://matrix.to/#/#ru.meshnet:matrix.org)
 - IRC-gate: `irc.freenode.net:6667#ru.meshnet`
+
+[Форум](https://www.reddit.com/r/ru_meshnet/) 
+[Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
+[Статистика чата](http://combot.org/c/-1001135587237) 
 
 [Спасение интернета](https://golos.io/p2p/@foxcool/spasenie-interneta)  
 [Проектирование Mesh-сетей](https://nag.ru/articles/article/102081/proektirovanie-mesh-setey.html)  
