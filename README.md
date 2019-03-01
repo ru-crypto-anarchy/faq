@@ -8,8 +8,8 @@
 Чаты и мосты в разных сетях:
 - TELEGRAM: [meshnet](https://t.me/meshnet)
 - MATRIX-gate: 
-  - [https://matrix.to/#/#ru.meshnet:feneas.org](#ru.meshnet:feneas.org)
-  - [https://matrix.to/#/#ru.meshnet:matrix.org](тоже саоме на matrix.org)
+  - [#ru.meshnet:feneas.org](https://matrix.to/#/#ru.meshnet:feneas.org)
+  - [#ru.meshnet:matrix.org](https://matrix.to/#/#ru.meshnet:matrix.org)
 - IRC-gate: irc.freenode.net:6667#ru.meshnet
 
 [Спасение интернета](https://golos.io/p2p/@foxcool/spasenie-interneta)  
