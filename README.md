@@ -95,11 +95,11 @@
 - cjdns: proxy.on.hyperboria.name:8118
 - ygg: [202:9877:2815:cd91:336:2a16:bfd9:7258]:8118
 
-### socks5 proxy (от whoami, доступно только через сети cjdns/yggdrasil):
+### socks5 proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса):
 - cjdns: socks5://[fc0d:5bba:969:82b6:8f96:1721:a6d1:4e35]:1080
 - ygg: socks5://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1080
 
-### shadowsocks proxy (от whoami):
+### shadowsocks proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса):
 - [QR-code](https://duckduckgo.com/?q=qr+code+ss%3A%2F%2FeGNoYWNoYTIwLWlldGYtcG9seTEzMDU6b0FIQWVaM2VGWWQzRndDV1F5dkxNWGRncVVUc1RMbVpjZWpON3dtZWNqeHg0VUZLOVQzR3UyUjVER3V5OUFIeHVXVjRkVDJBZXhaQ3h1S1NYUkJtd2pHU0tqaEVoc0ZYOGtYRHJkdEhHNVo1Q1kzVkx4RWM3YjZ4OUZZQ1JXTjRANTEuMTUuNDYuNTc6MTI0Mjk%23whoami&t=ffab&ia=answer) для простого добавления в мобильном клиенте 
 - `ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6b0FIQWVaM2VGWWQzRndDV1F5dkxNWGRncVVUc1RMbVpjZWpON3dtZWNqeHg0VUZLOVQzR3UyUjVER3V5OUFIeHVXVjRkVDJBZXhaQ3h1S1NYUkJtd2pHU0tqaEVoc0ZYOGtYRHJkdEhHNVo1Q1kzVkx4RWM3YjZ4OUZZQ1JXTjRANTEuMTUuNDYuNTc6MTI0Mjk#whoami`
 - ручные настройки:
