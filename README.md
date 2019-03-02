@@ -105,7 +105,7 @@
 - тестируйте ваш днс http://dnsleaktest.com , по дефолту днс запросы идут не через proxy, а через вашего провайдера
 - Ставьте галку "Proxy DNS when using SOCKS v5" (в Firefox) или используйте dnscrypt-proxy
 
-### Feed лента чата #ru.meshnet в matrix
+### Feed лента чата #ru.meshnet в matrix:
 - https://code.briarproject.org/briar/briar/tags?format=atom
 - https://github.com/TokTok/c-toxcore/releases.atom
 - https://github.com/cjdelisle/cjdns/releases.atom
