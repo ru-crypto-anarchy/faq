@@ -56,6 +56,12 @@
 - irc.hypeirc.net#hyperboria
 
 ### Полезные ссылки:
+- https://battlemesh.org
+    - https://github.com/battlemesh
+- https://althea.org
+- https://dn42.eu
+- https://libremesh.org
+- http://qmp.cat
 - https://handshake.org
 - https://github.com/mwarning/KadNode
 - https://ipfs.io
@@ -65,8 +71,6 @@
 - https://github.com/beakerbrowser/beaker
 - https://zeronet.io
 - https://zerotier.com
-- https://althea.org
-- https://dn42.eu
 
 ### Meshlocals - реально работающие сети
 - [List of wireless community networks by region](https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region)  
