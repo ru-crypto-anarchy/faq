@@ -102,7 +102,7 @@
 ### shadowsocks proxy (от whoami):
 - QR-code и данные для подключения ищите по хештегу #shadowsocks_whoami
 - рекомендую использовать аддон Proxy SwitchyOmega, есть в Firefox и Chrome
-- тестируйте ваш днс http://dnsleaktest.com , по дефолту днс запросы идут не через proxy, а через вашего провайдера
+- тестируйте ваш днс http://dnsleaktest.com, по дефолту днс запросы идут не через proxy, а через вашего провайдера
 - Ставьте галку "Proxy DNS when using SOCKS v5" (в Firefox) или используйте dnscrypt-proxy
 
 ### Feed лента чата #ru.meshnet в matrix:
