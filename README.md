@@ -104,3 +104,22 @@
 - рекомендую использовать аддон Proxy SwitchyOmega, есть в Firefox и Chrome
 - тестируйте ваш днс http://dnsleaktest.com , по дефолту днс запросы идут не через proxy, а через вашего провайдера
 - Ставьте галку "Proxy DNS when using SOCKS v5" (в Firefox) или используйте dnscrypt-proxy
+
+### Feed лента чата #ru.meshnet в matrix
+- https://code.briarproject.org/briar/briar/tags?format=atom
+- https://github.com/TokTok/c-toxcore/releases.atom
+- https://github.com/cjdelisle/cjdns/releases.atom
+- https://github.com/jech/babeld/releases.atom
+- https://github.com/meshbird/meshbird/releases.atom
+- https://github.com/mwarning/KadNode/releases.atom
+- https://github.com/openwrt/openwrt/releases.atom
+- https://github.com/shadowsocks/shadowsocks-libev/releases.atom
+- https://github.com/shadowsocks/shadowsocks-rust/releases.atom
+- https://github.com/shadowsocks/simple-obfs/releases.atom
+- https://github.com/tox-rs/tox/releases.atom
+- https://github.com/yggdrasil-network/yggdrasil-go/releases.atom
+- https://gitlab.gnome.org/GNOME/fractal/tags?format=atom
+- https://www.open-mesh.org/projects/open-mesh/news.atom
+- https://www.reddit.com/r/darknetplan/.rss
+- https://www.reddit.com/r/ru_meshnet/.rss
+- https://www.youtube.com/feeds/videos.xml?user=RosKomSvoboda
