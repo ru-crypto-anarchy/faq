@@ -7,7 +7,7 @@
   - [`#ru.meshnet:matrix.org`](https://matrix.to/#/#ru.meshnet:matrix.org)
 - IRC-gate: `irc.freenode.net:6667#ru.meshnet`
 
-[Форум](https://www.reddit.com/r/ru_meshnet/)  
+[Форум](https://reddit.com/r/ru_meshnet/)  
 [Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
 [Статистика чата](http://combot.org/c/-1001135587237)  
 
@@ -17,13 +17,13 @@
 [Yggdrasil — альтернатива CJDNS](http://yggdrasil-network.github.io/)  
 [Briar — он вам не телеграм](https://briarproject.org/)  
 [Handbook of Peer-to-Peer Networking](http://gen.lib.rus.ec/book/index.php?md5=1AED81BE347826A6CD6BB0523EF81768)   
-[List of wireless community networks by region](https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region)  
 [Using CJDNS with ZeroNet](https://proxy.zeronet.a0z.ru/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/?Post:51:Using+CJDNS+with+ZeroNet)  
+[List of mesh routing protocols](https://en.wikipedia.org/wiki/Wireless_mesh_network#Routing_protocols)
 [oneweb.world](https://oneweb.world/)  
-[skylink-astro.net](http://www.skylink-astro.net/)  
+[skylink-astro.net](http://skylink-astro.net/)  
 
-### Что такое меш сеть? ([перевод](https://www.youtube.com/watch?v=SXgeNHP0IEg), [оригинал](http://youtube.com/watch?v=cK73sYM3g0Q))
-- https://yggdrasil-network.github.io/
+### Что такое меш сеть? ([перевод](https://youtube.com/watch?v=SXgeNHP0IEg), [оригинал](http://youtube.com/watch?v=cK73sYM3g0Q))
+- https://yggdrasil-network.github.io
 - https://github.com/cjdelisle/cjdns
 - https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md
 - https://github.com/cjdelisle/cjdns/blob/master/doc/nat-gateway.md
@@ -51,13 +51,6 @@
 - https://h.forum.meshnet.pl
 - https://reddit.com/r/darknetplan
 
-### Другие чаты нашего комьюнити:
-- @distributed
-- @idistributed
-- @p2p_disturbed
-- @SDR_discussion
-- @btr_politics
-
 ### Чаты внутри сети:
 - irc.fc00.io#cjdns (matrix gate matrix.to/#/%23fc00-irc_%23cjdns:m.trnsz.com)
 - irc.hypeirc.net#hyperboria
@@ -72,22 +65,39 @@
 - https://github.com/beakerbrowser/beaker
 - https://zeronet.io
 - https://zerotier.com
+- https://althea.org
+- https://dn42.eu
+
+### Meshlocals - реально работающие сети
+- [List of wireless community networks by region](https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region)  
+- [meshlocals](https://github.com/phillymesh/meshlocals/blob/master/meshlocals.md)
+- [meshlocals on reddit](https://reddit.com/user/Famicoman/m/meshlocals/)
+- https://freifunk.net/en/ 
+    - https://freifunk-karte.de/
+- https://guifi.net
+- https://nycmesh.net
+- https://arednmesh.org
+- https://tomesh.net
+- https://phillymesh.net
 
 ### Обсуждаем создание нового чата (форума):
 - [`@influence_dev`](https://t.me/influence_dev)
 - https://docs.google.com/document/d/1c6heldTZ4HfIqDoZUQBn0jw5zb8nFlW-2NCpeEWxiaA/edit#heading=h.bphueay59cks
 - https://github.com/distributed-community/peerun
 
-### DC-HUB (от whoami, требуется поддержка клиентом ADC и IPv6. Например: ncdc, airdcpp. Eiskaltdc++ не поддерживает IPv6): 
-- ygg: `adc://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1511`
+### DC-HUB 
+- (от whoami, требуется поддержка клиентом ADC и IPv6. Например: ncdc, airdcpp. Eiskaltdc++ не поддерживает IPv6: 
+    - ygg: `adc://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1511`
 
-### http proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса, открывает .onion, .i2p):
-- cjdns: `proxy.on.hyperboria.name:8118`
-- ygg: `[202:9877:2815:cd91:336:2a16:bfd9:7258]:8118`
+### http proxy 
+- от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса, открывает .onion, .i2p:
+    - cjdns: `proxy.on.hyperboria.name:8118`
+    - ygg: `[202:9877:2815:cd91:336:2a16:bfd9:7258]:8118`
 
-### socks5 proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса):
-- cjdns: `socks5://[fc0d:5bba:969:82b6:8f96:1721:a6d1:4e35]:1080`
-- ygg: `socks5://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1080`
+### socks5 proxy 
+- от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса:
+    - cjdns: `socks5://[fc0d:5bba:969:82b6:8f96:1721:a6d1:4e35]:1080`
+    - ygg: `socks5://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1080`
 
 ### shadowsocks proxy (от whoami, резолвит OpenNIC, Namecoin, Emercoin адреса):
 - [QR-code](https://duckduckgo.com/?q=qr+code+ss%3A%2F%2FeGNoYWNoYTIwLWlldGYtcG9seTEzMDU6b0FIQWVaM2VGWWQzRndDV1F5dkxNWGRncVVUc1RMbVpjZWpON3dtZWNqeHg0VUZLOVQzR3UyUjVER3V5OUFIeHVXVjRkVDJBZXhaQ3h1S1NYUkJtd2pHU0tqaEVoc0ZYOGtYRHJkdEhHNVo1Q1kzVkx4RWM3YjZ4OUZZQ1JXTjRANTEuMTUuNDYuNTc6MTI0Mjk%23whoami&t=ffab&ia=answer) для простого добавления в мобильном клиенте 
@@ -99,6 +109,13 @@
         - при использовании плагина simple-obfs порт меняется на `443`, а в настройках плагина устанавливается — `TLS` и имя хоста `www.youtube.com:443`
     - method шифрования: `xchacha20-ietf-poly1305` (x в начале обязателен, поддерживается не всеми клиентами)
     - password: `oAHAeZ3eFYd3FwCWQyvLMXdgqUTsTLmZcejN7wmecjxx4UFK9T3Gu2R5DGuy9AHxuWV4dT2AexZCxuKSXRBmwjGSKjhEhsFX8kXDrdtHG5Z5CY3VLxEc7b6x9FYCRWN4`
+
+### Другие чаты нашего комьюнити:
+- @distributed
+- @idistributed
+- @p2p_disturbed
+- @SDR_discussion
+- @btr_politics
 
 ### Каналы по теме блокировок, криптоанархии и пр.:
 - https://t.me/alexmakus
@@ -124,7 +141,7 @@
 - https://github.com/tox-rs/tox/releases.atom
 - https://github.com/yggdrasil-network/yggdrasil-go/releases.atom
 - https://gitlab.gnome.org/GNOME/fractal/tags?format=atom
-- https://www.open-mesh.org/projects/open-mesh/news.atom
-- https://www.reddit.com/r/darknetplan/.rss
-- https://www.reddit.com/r/ru_meshnet/.rss
-- https://www.youtube.com/feeds/videos.xml?user=RosKomSvoboda
+- https://open-mesh.org/projects/open-mesh/news.atom
+- https://reddit.com/r/darknetplan/.rss
+- https://reddit.com/r/ru_meshnet/.rss
+- https://youtube.com/feeds/videos.xml?user=RosKomSvoboda
