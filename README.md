@@ -100,10 +100,15 @@
 - ygg: socks5://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1080
 
 ### shadowsocks proxy (от whoami):
-- QR-code и данные для подключения ищите по хештегу #shadowsocks_whoami
-- рекомендую использовать аддон Proxy SwitchyOmega, есть в Firefox и Chrome
-- тестируйте ваш днс http://dnsleaktest.com, по дефолту днс запросы идут не через proxy, а через вашего провайдера
-- Ставьте галку "Proxy DNS when using SOCKS v5" (в Firefox) или используйте dnscrypt-proxy
+- QR-code для простого добавления в мобильном клиенте https://duckduckgo.com/?q=qr+code+ss%3A%2F%2FeGNoYWNoYTIwLWlldGYtcG9seTEzMDU6b0FIQWVaM2VGWWQzRndDV1F5dkxNWGRncVVUc1RMbVpjZWpON3dtZWNqeHg0VUZLOVQzR3UyUjVER3V5OUFIeHVXVjRkVDJBZXhaQ3h1S1NYUkJtd2pHU0tqaEVoc0ZYOGtYRHJkdEhHNVo1Q1kzVkx4RWM3YjZ4OUZZQ1JXTjRANTEuMTUuNDYuNTc6MTI0Mjk%23whoami&t=ffab&ia=answer
+- ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6b0FIQWVaM2VGWWQzRndDV1F5dkxNWGRncVVUc1RMbVpjZWpON3dtZWNqeHg0VUZLOVQzR3UyUjVER3V5OUFIeHVXVjRkVDJBZXhaQ3h1S1NYUkJtd2pHU0tqaEVoc0ZYOGtYRHJkdEhHNVo1Q1kzVkx4RWM3YjZ4OUZZQ1JXTjRANTEuMTUuNDYuNTc6MTI0Mjk#whoami
+- ручные настройки:
+    - profile name: whoami (название не имеет значения)
+    - ip: 51.15.46.57
+    - port: 12429
+        - при использовании плагина simple-obfs порт меняется на 443, а в настройках плагина устанавливается — TLS и имя хоста www.youtube.com:443
+    - method шифрования: xchacha20-ietf-poly1305 (поддерживается не всеми клиентами)
+    - password: oAHAeZ3eFYd3FwCWQyvLMXdgqUTsTLmZcejN7wmecjxx4UFK9T3Gu2R5DGuy9AHxuWV4dT2AexZCxuKSXRBmwjGSKjhEhsFX8kXDrdtHG5Z5CY3VLxEc7b6x9FYCRWN4
 
 ### Feed лента чата #ru.meshnet в matrix:
 - https://code.briarproject.org/briar/briar/tags?format=atom
