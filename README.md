@@ -116,21 +116,21 @@
     - password: `oAHAeZ3eFYd3FwCWQyvLMXdgqUTsTLmZcejN7wmecjxx4UFK9T3Gu2R5DGuy9AHxuWV4dT2AexZCxuKSXRBmwjGSKjhEhsFX8kXDrdtHG5Z5CY3VLxEc7b6x9FYCRWN4`
 
 ### Другие чаты нашего комьюнити
-- @distributed
-- @idistributed
-- @p2p_disturbed
-- @SDR_discussion
-- @btr_politics
+- [`@distributed`](https://t.me/distributed)
+- [`@idistributed`](https://t.me/idistributed)
+- [`@p2p_disturbed`](https://t.me/p2p_disturbed)
+- [`@SDR_discussion`](https://t.me/SDR_discussion)
+- [`@btr_politics`](https://t.me/btr_politics)
 
 ### Каналы по теме блокировок, криптоанархии и пр.
-- https://t.me/alexmakus
-- https://t.me/darkfox_info
-- https://t.me/EvilWirelessMan
-- https://t.me/parisburns
-- https://t.me/roskomsvoboda
-- https://t.me/gip_24
-- https://t.me/usher2
-- https://t.me/zatelecom
+- [`@alexmakus`](https://t.me/alexmakus)
+- [`@darkfox_info`](https://t.me/darkfox_info)
+- [`@EvilWirelessMan`](https://t.me/EvilWirelessMan)
+- [`@parisburns`](https://t.me/parisburns)
+- [`@roskomsvoboda`](https://t.me/roskomsvoboda)
+- [`@gip_24`](https://t.me/gip_24)
+- [`@usher2`](https://t.me/usher2)
+- [`@zatelecom`](https://t.me/zatelecom)
 
 ### Feed лента чата #ru.meshnet в matrix
 - https://code.briarproject.org/briar/briar/tags?format=atom
