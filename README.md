@@ -16,7 +16,7 @@
 [Подробная статья о CJDNS и Hyperboria](http://netwhood.online/2018/10/21/cjdns-theory-and-practice/)  
 [Yggdrasil — альтернатива CJDNS](http://yggdrasil-network.github.io/)  
 [Briar — он вам не телеграм](https://briarproject.org/)  
-[Handbook of Peer-to-Peer Networking](https://t.me/meshnet/40029)   
+[Handbook of Peer-to-Peer Networking](http://gen.lib.rus.ec/book/index.php?md5=1AED81BE347826A6CD6BB0523EF81768)   
 [List of wireless community networks by region](https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region)  
 [Using CJDNS with ZeroNet](https://proxy.zeronet.a0z.ru/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/?Post:51:Using+CJDNS+with+ZeroNet)  
 [oneweb.world](https://oneweb.world/)  
