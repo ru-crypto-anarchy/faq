@@ -56,8 +56,7 @@
 - irc.hypeirc.net#hyperboria
 
 ### Полезные ссылки
-- https://battlemesh.org
-    - https://github.com/battlemesh
+- https://battlemesh.org https://github.com/battlemesh
 - https://althea.org
 - https://dn42.eu
 - https://libremesh.org
@@ -76,8 +75,7 @@
 - [List of wireless community networks by region](https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region)  
 - [meshlocals](https://github.com/phillymesh/meshlocals/blob/master/meshlocals.md)
 - [meshlocals on reddit](https://reddit.com/user/Famicoman/m/meshlocals)
-- https://freifunk.net/en 
-    - https://freifunk-karte.de
+- https://freifunk.net/en https://freifunk-karte.de
 - https://guifi.net
 - https://nycmesh.net
 - https://arednmesh.org
