@@ -148,3 +148,4 @@
 - https://reddit.com/r/darknetplan/.rss
 - https://reddit.com/r/ru_meshnet/.rss
 - https://youtube.com/feeds/videos.xml?user=RosKomSvoboda
+- https://roskomsvoboda.org/feed/
