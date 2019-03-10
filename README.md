@@ -132,18 +132,18 @@
 
 ### Feed лента чата #ru.meshnet в matrix
 - https://code.briarproject.org/briar/briar/tags?format=atom
-- https://github.com/TokTok/c-toxcore/releases.atom
 - https://github.com/cjdelisle/cjdns/releases.atom
+- https://github.com/yggdrasil-network/yggdrasil-go/releases.atom
 - https://github.com/jech/babeld/releases.atom
 - https://github.com/meshbird/meshbird/releases.atom
 - https://github.com/mwarning/KadNode/releases.atom
-- https://github.com/openwrt/openwrt/releases.atom
+- https://github.com/nadoo/glider/releases.atom
 - https://github.com/shadowsocks/shadowsocks-libev/releases.atom
 - https://github.com/shadowsocks/shadowsocks-rust/releases.atom
 - https://github.com/shadowsocks/v2ray-plugin/releases.atom
 - https://github.com/tox-rs/tox/releases.atom
-- https://github.com/yggdrasil-network/yggdrasil-go/releases.atom
-- https://github.com/nadoo/glider/releases.atom
+- https://github.com/TokTok/c-toxcore/releases.atom
+- https://github.com/openwrt/openwrt/releases.atom
 - https://gitlab.gnome.org/GNOME/fractal/tags?format=atom
 - https://open-mesh.org/projects/open-mesh/news.atom
 - https://reddit.com/r/darknetplan/.rss
