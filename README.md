@@ -140,9 +140,10 @@
 - https://github.com/openwrt/openwrt/releases.atom
 - https://github.com/shadowsocks/shadowsocks-libev/releases.atom
 - https://github.com/shadowsocks/shadowsocks-rust/releases.atom
-- https://github.com/shadowsocks/simple-obfs/releases.atom
+- https://github.com/shadowsocks/v2ray-plugin/releases.atom
 - https://github.com/tox-rs/tox/releases.atom
 - https://github.com/yggdrasil-network/yggdrasil-go/releases.atom
+- https://github.com/nadoo/glider/releases.atom
 - https://gitlab.gnome.org/GNOME/fractal/tags?format=atom
 - https://open-mesh.org/projects/open-mesh/news.atom
 - https://reddit.com/r/darknetplan/.rss
