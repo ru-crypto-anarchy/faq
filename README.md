@@ -55,6 +55,9 @@
 - irc.fc00.io#cjdns (matrix gate matrix.to/#/%23fc00-irc_%23cjdns:m.trnsz.com)
 - irc.hypeirc.net#hyperboria
 
+### Железо
+- [Таблица беспроводных адаптеров с поддержкой Wireless Mesh 802.11s](https://github.com/phillymesh/802.11s-adapters/blob/master/README.md)
+
 ### Полезные ссылки
 - https://battlemesh.org https://github.com/battlemesh
 - https://althea.org
