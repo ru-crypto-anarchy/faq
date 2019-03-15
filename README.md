@@ -112,7 +112,6 @@
     - profile name: whoami (название не имеет значения)
     - ip: `51.15.46.57`
     - port: `12429`
-        - при использовании плагина simple-obfs порт меняется на `443`, а в настройках плагина устанавливается — `TLS` и имя хоста `www.youtube.com:443`
     - method шифрования: `xchacha20-ietf-poly1305` (x в начале обязателен, поддерживается не всеми клиентами)
     - password: `oAHAeZ3eFYd3FwCWQyvLMXdgqUTsTLmZcejN7wmecjxx4UFK9T3Gu2R5DGuy9AHxuWV4dT2AexZCxuKSXRBmwjGSKjhEhsFX8kXDrdtHG5Z5CY3VLxEc7b6x9FYCRWN4`
 
