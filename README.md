@@ -5,6 +5,7 @@
 - MATRIX-gate: 
   - [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org)
   - [`#ru.meshnet:matrix.org`](https://matrix.to/#/#ru.meshnet:matrix.org)
+- XMPP-gate: `ru.meshnet@conference.a3.pm`
 - IRC-gate: `irc.freenode.net:6667#ru.meshnet`
 
 [Форум](https://reddit.com/r/ru_meshnet)  
