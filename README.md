@@ -147,3 +147,4 @@
 - https://open-mesh.org/projects/open-mesh/news.atom
 - https://reddit.com/r/darknetplan/.rss
 - https://reddit.com/r/ru_meshnet/.rss
+- https://yggdrasil-network.github.io/feed.xml
