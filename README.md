@@ -1,5 +1,9 @@
 >В основе cjdns лежит вера в то, что социальные проблемы, такие как необоснованные изъятия доменов и массовые прослушки, являются результатом устаревших протоколов, дающих слишком большую власть в руки малого количества людей. © Caleb James DeLisle
 
+[Форум](https://reddit.com/r/ru_meshnet)  
+[Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
+[Статистика чата](http://combot.org/c/-1001135587237)  
+
 ### Чаты и мосты в разных сетях
 - TELEGRAM: [`@meshnet`](https://t.me/meshnet) 
 - MATRIX-gate: 
@@ -11,10 +15,6 @@
 #### Официальный чат Yggdrasil-network в MATRIX
 [`yggdrasil:matrix.org`](https://matrix.to/#/%23yggdrasil:matrix.org)  
 [`yggdrasil:matrix.org логи`](https://view.matrix.org/room/!DwmKuvGvRKciqyFcxv:matrix.org)
-
-[Форум](https://reddit.com/r/ru_meshnet)  
-[Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
-[Статистика чата](http://combot.org/c/-1001135587237)  
 
 ### FAQ
 Q: Почему сообщество мешнет/криптоанархии использует проприетарный, централизованный, коммерческий Telegram, который требует номер телефона?  
