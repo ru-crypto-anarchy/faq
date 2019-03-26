@@ -28,8 +28,8 @@ A: Если бы мы использовали только децентрали
 [«На чём корпорации вертели вашу приватность», Артур Хачуян (Tazeros Global)](https://www.youtube.com/watch?v=8IJxO44kq24)  
 [Спасение интернета](https://golos.io/p2p/@foxcool/spasenie-interneta)  
 [CJDNS мертв, да здравствует Yggdrasil](https://habr.com/ru/post/443934)  
-[Подробная статья о CJDNS и Hyperboria](http://netwhood.online/2018/10/21/cjdns-theory-and-practice)  
 [Yggdrasil — альтернатива CJDNS](http://yggdrasil-network.github.io)  
+[Подробная статья о CJDNS и Hyperboria](http://netwhood.online/2018/10/21/cjdns-theory-and-practice)  
 [Using CJDNS with ZeroNet](https://proxy.zeronet.a0z.ru/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/?Post:51:Using+CJDNS+with+ZeroNet)  
 [Briar — он вам не телеграм](https://briarproject.org)  
 
