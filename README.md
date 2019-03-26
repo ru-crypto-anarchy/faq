@@ -24,6 +24,7 @@ A: Если бы мы использовали только децентрали
 Я рекомендую всем по возможности мигрировать в matrix. Только, пожалуйста, не регистрируйтесь на matrix.org, выберите любой другой сервер. Как говорится - не нужно класть все яица в одну корзину, создавайте энтропию.
 
 ### Основные ссылки
+[Стив Рамбам - Анонимности нет, смиритесь. (Steven Rambam Privacy Is Dead – Get Over It 2010 ч.1)](https://www.youtube.com/watch?v=Z5Vk7At6voc)  
 [«На чём корпорации вертели вашу приватность», Артур Хачуян (Tazeros Global)](https://www.youtube.com/watch?v=8IJxO44kq24)  
 [CJDNS мертв, да здравствует Yggdrasil](https://habr.com/ru/post/443934)  
 [Спасение интернета](https://golos.io/p2p/@foxcool/spasenie-interneta)  
