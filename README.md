@@ -61,7 +61,7 @@ A: Если бы мы использовали только децентрали
 - https://h.snode.cjd.li
 - https://h.fc00.org
 - https://yggdrasil-map.cwo.fi
-- http://[21f:dd73:7cdb:773b:a924:7ec0:800b:221e]
+- [http://[21f:dd73:7cdb:773b:a924:7ec0:800b:221e]](http://[21f:dd73:7cdb:773b:a924:7ec0:800b:221e])
 
 ### Ресурсы сети
 - https://hia.cjdns.ca
