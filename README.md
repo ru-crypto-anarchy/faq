@@ -26,14 +26,15 @@ A: Если бы мы использовали только децентрали
 ### Основные ссылки
 [Стив Рамбам - Анонимности нет, смиритесь. (Steven Rambam Privacy Is Dead – Get Over It 2010 ч.1)](https://www.youtube.com/watch?v=Z5Vk7At6voc)  
 [«На чём корпорации вертели вашу приватность», Артур Хачуян (Tazeros Global)](https://www.youtube.com/watch?v=8IJxO44kq24)  
-[CJDNS мертв, да здравствует Yggdrasil](https://habr.com/ru/post/443934)  
 [Спасение интернета](https://golos.io/p2p/@foxcool/spasenie-interneta)  
-[Проектирование Mesh-сетей](https://nag.ru/articles/article/102081/proektirovanie-mesh-setey.html)  
+[CJDNS мертв, да здравствует Yggdrasil](https://habr.com/ru/post/443934)  
 [Подробная статья о CJDNS и Hyperboria](http://netwhood.online/2018/10/21/cjdns-theory-and-practice)  
 [Yggdrasil — альтернатива CJDNS](http://yggdrasil-network.github.io)  
-[Briar — он вам не телеграм](https://briarproject.org)  
-[Handbook of Peer-to-Peer Networking](http://gen.lib.rus.ec/book/index.php?md5=1AED81BE347826A6CD6BB0523EF81768)  
 [Using CJDNS with ZeroNet](https://proxy.zeronet.a0z.ru/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/?Post:51:Using+CJDNS+with+ZeroNet)  
+[Briar — он вам не телеграм](https://briarproject.org)  
+
+[Проектирование Mesh-сетей](https://nag.ru/articles/article/102081/proektirovanie-mesh-setey.html)  
+[Handbook of Peer-to-Peer Networking](http://gen.lib.rus.ec/book/index.php?md5=1AED81BE347826A6CD6BB0523EF81768)  
 
 [List of mesh routing protocols](https://en.wikipedia.org/wiki/Wireless_mesh_network#Routing_protocols)  
 [oneweb.world](https://oneweb.world)  
