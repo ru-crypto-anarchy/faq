@@ -19,6 +19,7 @@ A: Если бы мы использовали только децентрали
 [Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
 [Статистика чата](http://combot.org/c/-1001135587237)  
 
+### Основные статьи и ссылки
 [CJDNS мертв, да здравствует Yggdrasil](https://habr.com/ru/post/443934)  
 [Спасение интернета](https://golos.io/p2p/@foxcool/spasenie-interneta)  
 [Проектирование Mesh-сетей](https://nag.ru/articles/article/102081/proektirovanie-mesh-setey.html)  
