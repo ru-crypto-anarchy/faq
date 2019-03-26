@@ -8,6 +8,10 @@
 - XMPP-gate: `ru.meshnet@conference.a3.pm`
 - IRC-gate: `irc.freenode.net:6667#ru.meshnet`
 
+#### Официальный чат Yggdrasil-network в MATRIX
+[`yggdrasil:matrix.org`](https://matrix.to/#/%23yggdrasil:matrix.org)  
+[`yggdrasil:matrix.org логи`](https://view.matrix.org/room/!DwmKuvGvRKciqyFcxv:matrix.org)
+
 [Форум](https://reddit.com/r/ru_meshnet)  
 [Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
 [Статистика чата](http://combot.org/c/-1001135587237)  
