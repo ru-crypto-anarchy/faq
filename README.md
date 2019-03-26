@@ -69,6 +69,7 @@
 - https://handshake.org
 - https://github.com/mwarning/KadNode
 - https://ipfs.io
+- https://github.com/ipfs/awesome-ipfs
 - https://github.com/ipfs/go-ipfs
 - https://github.com/libp2p/rust-libp2p
 - https://datproject.org
@@ -148,3 +149,4 @@
 - https://reddit.com/r/darknetplan/.rss
 - https://reddit.com/r/ru_meshnet/.rss
 - https://yggdrasil-network.github.io/feed.xml
+- https://github.com/ipfs/awesome-ipfs/commits/master.atom
