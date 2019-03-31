@@ -1,9 +1,9 @@
 >В основе cjdns лежит вера в то, что социальные проблемы, такие как необоснованные изъятия доменов и массовые прослушки, являются результатом устаревших протоколов, дающих слишком большую власть в руки малого количества людей. © Caleb James DeLisle
 
 По всем вопросам:  
-`matrix: @whoami:feneas.org`  
-`e-mail: whoami_systemli_org`  
-`tg: @whoami_rs`  
+matrix: `@whoami:feneas.org`  
+e-mail: `whoami_systemli_org`  
+tg: `@whoami_rs`  
 
 [Форум](https://reddit.com/r/ru_meshnet)  
 [Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
