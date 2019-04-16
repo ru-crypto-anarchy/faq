@@ -132,10 +132,6 @@ A: Если бы мы использовали только децентрали
     - method шифрования: `xchacha20-ietf-poly1305` (x в начале обязателен, поддерживается не всеми клиентами)
     - password: `oAHAeZ3eFYd3FwCWQyvLMXdgqUTsTLmZcejN7wmecjxx4UFK9T3Gu2R5DGuy9AHxuWV4dT2AexZCxuKSXRBmwjGSKjhEhsFX8kXDrdtHG5Z5CY3VLxEc7b6x9FYCRWN4`
 
-### DC-HUB 
-от whoami, требуется поддержка клиентом ADC и IPv6. Например: ncdc, airdcpp. Eiskaltdc++ не поддерживает IPv6
-- ygg: `adc://[202:9877:2815:cd91:336:2a16:bfd9:7258]:1511`
-
 ### Другие чаты нашего комьюнити
 - [`@distributed`](https://t.me/distributed)
 - [`@idistributed`](https://t.me/idistributed)
