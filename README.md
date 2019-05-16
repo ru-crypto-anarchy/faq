@@ -41,9 +41,9 @@ A: Если бы мы использовали только децентрали
 [Handbook of Peer-to-Peer Networking](http://gen.lib.rus.ec/book/index.php?md5=1AED81BE347826A6CD6BB0523EF81768)  
 
 [List of mesh routing protocols](https://en.wikipedia.org/wiki/Wireless_mesh_network#Routing_protocols)  
+
 [oneweb.world](https://oneweb.world)  
 [OneWeb](https://en.wikipedia.org/wiki/OneWeb)  
-[skylink-astro.net](http://skylink-astro.net)  
 
 ### Что такое меш сеть? ([перевод](https://youtube.com/watch?v=SXgeNHP0IEg), [оригинал](http://youtube.com/watch?v=cK73sYM3g0Q))
 - https://yggdrasil-network.github.io
