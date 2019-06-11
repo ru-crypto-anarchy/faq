@@ -36,6 +36,7 @@ A: Если бы мы использовали только децентрали
 [Подробная статья о CJDNS и Hyperboria](http://netwhood.online/2018/10/21/cjdns-theory-and-practice)  
 [Using CJDNS with ZeroNet](https://proxy.zeronet.a0z.ru/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/?Post:51:Using+CJDNS+with+ZeroNet)  
 [Briar — он вам не телеграм](https://briarproject.org)  
+[Федеративные социальные сети](https://the-federation.info)  
 
 [Проектирование Mesh-сетей](https://nag.ru/articles/article/102081/proektirovanie-mesh-setey.html)  
 [Handbook of Peer-to-Peer Networking](http://gen.lib.rus.ec/book/index.php?md5=1AED81BE347826A6CD6BB0523EF81768)  
