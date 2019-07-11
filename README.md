@@ -126,6 +126,7 @@ A: Если бы мы использовали только децентрали
 ### Каналы по теме блокировок, криптоанархии и пр.
 - [`@alexmakus`](https://t.me/alexmakus)
 - [`@darkfox_info`](https://t.me/darkfox_info)
+- [`@dcntr`](https://t.me/dcntr)
 - [`@EvilWirelessMan`](https://t.me/EvilWirelessMan)
 - [`@parisburns`](https://t.me/parisburns)
 - [`@roskomsvoboda`](https://t.me/roskomsvoboda)
