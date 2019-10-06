@@ -18,7 +18,7 @@ tg: [`@whoami_rs`](https://t.me/whoami_rs)
 
 #### Официальный чат Yggdrasil-network в MATRIX
 [`yggdrasil:matrix.org`](https://matrix.to/#/%23yggdrasil:matrix.org)  
-[`yggdrasil:matrix.org логи`](https://view.matrix.org/room/!jAkosaBrzoWGbqEtIY:matrix.org/)
+[`yggdrasil:matrix.org логи`](https://view.matrix.org/room/!DwmKuvGvRKciqyFcxv:matrix.org/)
 
 ### FAQ
 Q: Почему сообщество мешнет/криптоанархии использует проприетарный, централизованный, коммерческий Telegram, который, к тому-же, требует номер телефона?  
