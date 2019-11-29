@@ -11,8 +11,7 @@ tg: [`@whoami_rs`](https://t.me/whoami_rs)
 
 ### Чаты и мосты в разных сетях
 - TELEGRAM: [`@meshnet`](https://t.me/meshnet)
-- MATRIX-gate: [`#ru.meshnet:netwhood.online`](https://matrix.to/#/#ru.meshnet:netwhood.online) (Россия/Москва)
-    - [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org) (Финляндия/Хельсинки)
+- MATRIX-gate: [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org) (Финляндия/Хельсинки)
 - XMPP-gate: `ru.meshnet@conference.a3.pm`
 - IRC-gate: `irc.freenode.net:6667#ru.meshnet`
 
