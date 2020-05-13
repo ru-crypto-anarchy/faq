@@ -12,7 +12,7 @@ e-mail: `whoami_systemli_org`
 - MATRIX: [`+ru.meshnet:feneas.org`](https://matrix.to/#/+ru.meshnet:feneas.org)
 - XMPP: `ru.meshnet@conference.a3.pm`
 - IRC: `irc.freenode.net:6667#ru.meshnet`
-- TELEGRAM: [`@meshnet`](https://t.me/meshnet)
+- TG: [`@meshnet`](https://ttttt.me/meshnet)
 
 #### Официальный чат Yggdrasil-network в MATRIX
 [`yggdrasil:matrix.org`](https://matrix.to/#/%23yggdrasil:matrix.org)  
