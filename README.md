@@ -3,7 +3,6 @@
 По всем вопросам:  
 matrix: `@whoami:feneas.org`  
 e-mail: `whoami_systemli_org`  
-tg: [`@whoami_rs`](https://t.me/whoami_rs) 
 
 [Форум](https://reddit.com/r/ru_meshnet)  
 [Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
