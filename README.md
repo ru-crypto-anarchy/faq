@@ -10,10 +10,10 @@ tg: [`@whoami_rs`](https://t.me/whoami_rs)
 [Статистика чата](http://combot.org/c/-1001135587237)  
 
 ### Чаты и мосты в разных сетях
+- MATRIX: [`+ru.meshnet:feneas.org`](https://matrix.to/#/+ru.meshnet:feneas.org)
+- XMPP: `ru.meshnet@conference.a3.pm`
+- IRC: `irc.freenode.net:6667#ru.meshnet`
 - TELEGRAM: [`@meshnet`](https://t.me/meshnet)
-- MATRIX-gate: [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org) (Финляндия/Хельсинки)
-- XMPP-gate: `ru.meshnet@conference.a3.pm`
-- IRC-gate: `irc.freenode.net:6667#ru.meshnet`
 
 #### Официальный чат Yggdrasil-network в MATRIX
 [`yggdrasil:matrix.org`](https://matrix.to/#/%23yggdrasil:matrix.org)  
