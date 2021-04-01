@@ -8,10 +8,14 @@ e-mail: `whoami_systemli_org`
 [Правила чата](https://docs.google.com/document/d/1FmnWIkqs499e25ndv-8EuvHiVKQVjjhJwRuGSYYW_oY/edit?usp=sharing) и список других чатов сообщества  
 [Статистика чата](http://combot.org/c/-1001135587237)  
 
-### Чаты и мосты в разных сетях
-- MATRIX: [`+ru.meshnet:feneas.org`](https://matrix.to/#/+ru.meshnet:feneas.org)
-- XMPP: `ru.meshnet@conference.a3.pm`
-- IRC: `irc.freenode.net:6667#ru.meshnet`
+### Основной чат
+- MATRIX: 
+- - [`#ru.meshnet:lord.sh`](https://matrix.to/#/#ru.meshnet:lord.sh)
+- - [`#ru.meshnet:feneas.org`](https://matrix.to/#/#ru.meshnet:feneas.org)
+- XMPP: 
+- - `#ru.meshnet#lord.sh@matrix.org` 
+- - `#ru.meshnet#feneas.org@matrix.org`
+- IRC: `ircs://irc.oftc.net:6697#ru.meshnet`
 - TG: [`@meshnet`](https://ttttt.me/meshnet)
 
 #### Официальный чат Yggdrasil-network в MATRIX
