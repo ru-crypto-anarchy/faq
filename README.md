@@ -9,10 +9,13 @@ e-mail: `whoami_systemli_org`
 [Статистика чата](http://combot.org/c/-1001135587237)  
 
 ### Чаты и мосты в разных сетях
-- MATRIX: [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.parity.io&via=matrix.org&via=nordgedanken.dev)
+- MATRIX: 
+- - [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.parity.io&via=matrix.org&via=nordgedanken.dev)
 - - [`Основной чат`](#ru.meshnet.general:matrix.org)
-- XMPP: `ru.meshnet@conference.a3.pm`
-- IRC: `irc.freenode.net:6667#ru.meshnet`
+- XMPP: 
+- - `#ru.meshnet#matrix.org@matrix.org`
+- - `ru.meshnet@conference.a3.pm`
+- IRC: `ircs://irc.oftc.net:6697#ru.meshnet`
 - TG: [`@meshnet`](https://ttttt.me/meshnet)
 
 #### Официальный чат Yggdrasil-network в MATRIX
