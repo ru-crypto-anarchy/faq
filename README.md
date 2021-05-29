@@ -9,7 +9,8 @@ e-mail: `whoami_systemli_org`
 [Статистика чата](http://combot.org/c/-1001135587237)  
 
 ### Чаты и мосты в разных сетях
-- MATRIX: [`+ru.meshnet:feneas.org`](https://matrix.to/#/+ru.meshnet:feneas.org)
+- MATRIX: [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.parity.io&via=matrix.org&via=nordgedanken.dev)
+- - [`Основной чат`](#ru.meshnet.general:matrix.org)
 - XMPP: `ru.meshnet@conference.a3.pm`
 - IRC: `irc.freenode.net:6667#ru.meshnet`
 - TG: [`@meshnet`](https://ttttt.me/meshnet)
