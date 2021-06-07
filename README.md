@@ -7,7 +7,7 @@
 ### Чаты и мосты в разных сетях
 - MATRIX: 
 - - [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.parity.io&via=matrix.org&via=nordgedanken.dev)
-- - [`Основной чат`](https://matrix.to/#/#ru.meshnet.general:matrix.org)
+- - [`Основной чат`](https://matrix.to/#/#ru.meshnet:matrix.org)
 - XMPP: 
 - - `#ru.meshnet#matrix.org@matrix.org`
 - - `ru.meshnet@conference.a3.pm`
