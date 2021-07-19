@@ -133,6 +133,7 @@ A: Если бы мы использовали только децентрали
 - [`@gip_24`](https://t.me/gip_24)
 - [`@usher2`](https://t.me/usher2)
 - [`@zatelecom`](https://t.me/zatelecom)
+- [`@causa_arcana`](https://t.me/causa_arcana)
 
 ### Feed лента чата #ru.meshnet в matrix
 - https://code.briarproject.org/briar/briar/tags?format=atom
