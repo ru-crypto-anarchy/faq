@@ -56,6 +56,7 @@
 - https://cjdns.cupivan.ru
 - https://lvlts.github.io/hyperboria-peer-check
 - https://github.com/hyperboria/peers
+- https://publicpeers.neilalexander.dev
 - https://github.com/yggdrasil-network/public-peers
 
 ### Карты сети
