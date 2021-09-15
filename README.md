@@ -11,7 +11,9 @@
 ### Чаты и мосты в разных сетях
 - MATRIX: 
 - - [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org)
-- - [`Основной чат`](https://matrix.to/#/!hQVSpPJoffCuZUEzzn:matrix.org)
+- - [`Welcome-чат`](https://matrix.to/#/!WwWQzLvzWVjPObgILH:matrix.org)
+- - [`Оффтоп-чат`](https://matrix.to/#/!rHMhkiHGXritMrGTbc:matrix.org)
+- - [`Основной-чат (без мостов)`](https://matrix.to/#/!YeGgJeNGVxrwtITkqZ:matrix.org)
 - XMPP: 
 - - `#ru.meshnet#matrix.org@matrix.org`
 - - `ru.meshnet@conference.a3.pm`
