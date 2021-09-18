@@ -9,11 +9,7 @@
 Я рекомендую всем по возможности мигрировать в matrix. Только, пожалуйста, не регистрируйтесь на matrix.org, выберите любой другой сервер. Как говорится - не нужно класть все яица в одну корзину, создавайте энтропию.*
 
 ### Чаты и мосты в разных сетях
-- MATRIX: 
-- - [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org)
-- - [`Welcome-чат`](https://matrix.to/#/!WwWQzLvzWVjPObgILH:matrix.org)
-- - [`Оффтоп-чат`](https://matrix.to/#/!rHMhkiHGXritMrGTbc:matrix.org)
-- - [`Основной-чат (без мостов)`](https://matrix.to/#/!YeGgJeNGVxrwtITkqZ:matrix.org)
+- MATRIX: [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org)
 - XMPP: 
 - - `#ru.meshnet#matrix.org@matrix.org`
 - - `ru.meshnet@conference.a3.pm`
