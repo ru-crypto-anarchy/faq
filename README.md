@@ -5,15 +5,15 @@
 **A:** *Создание чата в Telegram было ошибкой. У них проприетарный сервер и требование регистрации с указанием и подтверждением мобильного телефона. В современном мире это равнозначно тому что вы им фото своего паспорта прислали. Это недопустимо, это немыслимо. Кроме того, этот опыт показал, что люди, которые не готовы сменить Telegram на Matrix/XMPP, не понимают криптоанархию и не разделяют наших взглядов*
 
 ### Чаты и мосты в разных сетях
-- MATRIX: [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.org&via=ru-matrix.org)
-- XMPP: 
-- - `#ru.meshnet#matrix.org@matrix.org`
-- - `ru.meshnet@conference.a3.pm`
-- IRC: `ircs://irc.oftc.net:6697#ru.meshnet`
+- MATRIX: 
+- - [Space](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.org&via=ru-matrix.org)
+- - Основной чат: `#ru.meshnet.crypto-anarchy:matrix.org`
+- XMPP: `#ru.meshnet.crypto-anarchy#matrix.org@matrix.org`
+- IRC: `irc.libera.chat/#ru.meshnet.crypto-anarchy`
 
 #### Официальный чат Yggdrasil-network в MATRIX
-[`yggdrasil:matrix.org`](https://matrix.to/#/%23yggdrasil:matrix.org)  
-[`yggdrasil:matrix.org логи`](https://view.matrix.org/room/!DwmKuvGvRKciqyFcxv:matrix.org/)
+[yggdrasil:matrix.org](https://matrix.to/#/%23yggdrasil:matrix.org)  
+[yggdrasil:matrix.org логи](https://view.matrix.org/room/!DwmKuvGvRKciqyFcxv:matrix.org/)
 
 ### Основные ссылки
 [awesome-mesh](https://github.com/moarpepes/awesome-mesh)  
