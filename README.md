@@ -5,7 +5,7 @@
 **A:** *Создание чата в Telegram было ошибкой*
 
 ### Чаты и мосты в разных сетях
-- MATRIX: [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org)
+- MATRIX: [`Matrix Space`](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.org&via=ru-matrix.org)
 - XMPP: 
 - - `#ru.meshnet#matrix.org@matrix.org`
 - - `ru.meshnet@conference.a3.pm`
