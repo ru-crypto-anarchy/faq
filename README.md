@@ -9,7 +9,7 @@
 - - [Space](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.org&via=ru-matrix.org)
 - - Основной чат: `#ru.meshnet.crypto-anarchy:matrix.org`
 - XMPP: `#ru.meshnet.crypto-anarchy#matrix.org@matrix.org`
-- IRC: `irc.libera.chat/#ru.meshnet.crypto-anarchy`
+- IRC: `irc.libera.chat/#ru.meshnet.crypto-anarchy` (скрывайте свой IP c помощью [cloaks](https://libera.chat/guides/cloaks))
 
 #### Официальный чат Yggdrasil-network в MATRIX
 [yggdrasil:matrix.org](https://matrix.to/#/%23yggdrasil:matrix.org)  
