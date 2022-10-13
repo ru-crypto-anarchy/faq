@@ -7,8 +7,11 @@
 ### Чаты и мосты в разных сетях
 - MATRIX: 
 - - [Space](https://matrix.to/#/!XUDiExtbDRZCPXverh:matrix.org?via=matrix.org&via=ru-matrix.org)
-- - Основной чат: `#ru.meshnet.crypto-anarchy:matrix.org`
-- XMPP: `#ru.meshnet.crypto-anarchy#matrix.org@matrix.org`
+- - Crypto-Anarchy: `#ru.crypto-anarchy:matrix.org`
+- - Meshnet: `#ru.meshnet:matrix.org`
+- XMPP: 
+- - Crypto-Anarchy: `#ru.crypto-anarchy#matrix.org@matrix.org`
+- - Meshnet: `#ru.meshnet#matrix.org@matrix.org`
 - IRC: (официальный бридж matrix в irc кикает неактивных пользователей из matrix. Это неприемлемо, по этому официальным бриджом мы пользоваться не будем, а другого у нас пока нет)
 
 #### Официальный чат Yggdrasil-network в MATRIX
